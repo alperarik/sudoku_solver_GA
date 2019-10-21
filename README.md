@@ -1,4 +1,4 @@
-# sudoku_solver_GA
+# sudoku solver GA
 Sudoku solver with Genetic algorithm
 
 GA may not solve hard sudokus
